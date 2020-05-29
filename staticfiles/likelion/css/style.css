@@ -1,0 +1,13 @@
+body {
+    background-color: yellow;
+}
+.nav {
+    height: 50px;
+    background: red;
+    display: flex;
+    
+}
+.nav .right-nav {
+    background: orange;
+    color: black;
+}
